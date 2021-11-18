@@ -1,4 +1,4 @@
-USE codeup_database_db;
+USE codeup_test_db;
 INSERT INTO albums(artist, name, release_date, genre, sales) VALUES
                                                                  ('Michael Jackson', 'Thriller', 1982, 48.9, 'Pop, Rock, R&B'),
                                                                  ('ACDC', 'Back In Black', 1980, 29.6, 'Hard Rock'),
